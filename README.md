@@ -20,7 +20,7 @@
 
 - :school: I am a `Student` at [Department of IT in SLIATE Kegalle ](http://kegalle.sliate.ac.lk/)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I enjoy working on projects involving `Html`, `Css`, `JS`, `Java`, `Php` and `more`.
+- :computer: I enjoy working on projects involving `Html`, `Css`, `JS`, `Java`, `Php` , `python` and `more`.
 - :student: I’m currently learning `web technologies `.
 - :nerd_face: Always `learning new things`.
 <br>
