@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-    <img align="right"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
+    <img align="right"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
   </div>
 <p align="left"><a href="https://github.com/RansikaSeniya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RansikaSeniya&theme=tokyonight" /></a></p>
 <p align="left" ><a href="https://github.com/RansikaSeniya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RansikaSeniya&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
