@@ -31,6 +31,7 @@
 
 <div align="center">
   <a href="bandararansika310@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://github.com/RansikaSeniya"><img src="https://skillicons.dev/icons?i=github&theme=dark&perline=13" width="52" height="40" alt="github logo" /></a>
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
 
@@ -40,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,php,py,git,github,bootstrap,mysql,idea,notion,vscode,visualstudio,figma&theme=dark&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,php,py,git,github,bootstrap,mysql,idea,notion,vscode,visualstudio,figma&theme=dark&perline=13"/>
  </a>
 </p>
 
