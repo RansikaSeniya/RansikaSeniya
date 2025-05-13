@@ -13,7 +13,7 @@
 </p>
 
 	
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <b>About me</b>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -38,7 +38,7 @@
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
 
-🛠️ My Skills
+<b>🛠️ My Skills</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Languages and Tools
@@ -61,24 +61,16 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+<!-- My Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
 
-
-
-
-
-
-<!--
-**RansikaSeniya/RansikaSeniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img align="right"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
+  </div>
+<p align="left"><a href="https://github.com/RansikaSeniya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RansikaSeniya&theme=tokyonight" /></a></p>
+<p align="left" ><a href="https://github.com/RansikaSeniya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RansikaSeniya&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+<br/>
+<br/>
