@@ -1,3 +1,4 @@
+![👋 Hi, I'm Ransika Seniya](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi , I'm Ransika Seniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
@@ -18,7 +19,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Department of IT in SLIATE Kegalle ](http://kegalle.sliate.ac.lk/)
+- :school: I am a `Student` at Department of IT in SLIATE
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I enjoy working on projects involving `Html`, `Css`, `JS`, `Java`, `Php` , `python` and `more`.
 - :student: I’m currently learning `web technologies `.
