@@ -52,7 +52,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark&perline=13"/>
  </a>
 </p>
 -----
