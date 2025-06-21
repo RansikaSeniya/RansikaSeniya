@@ -22,7 +22,7 @@
 
 - :school: I am a `Student` at Department of IT in SLIATE
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I enjoy working on projects involving `Html`, `Css`, `ReactJS`, `NodeJs`, `Python` and `more`.
+- :computer: I enjoy working on projects involving `Html`, `Css`, `ReactJS`, `NodeJs`, Devops` and `more`.
 - :student: I’m currently learning `web technologies `.
 - :nerd_face: Always `learning new things`.
 <br>
