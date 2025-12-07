@@ -50,7 +50,7 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center">
+<p align="center"> <br>
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark&perline=13"/>
  </a>
@@ -68,9 +68,30 @@
 <br>
 
 <div align="center">
-    <img align="right"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+    <img align="center"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
   </div>
-<p align="left"><a href="https://github.com/RansikaSeniya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RansikaSeniya&theme=tokyonight" /></a></p>
-<p align="left" ><a href="https://github.com/RansikaSeniya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RansikaSeniya&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+  <br>
+  <br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RansikaSeniya&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RansikaSeniya&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RansikaSeniya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RansikaSeniya&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
 <br/>
 <br/>
