@@ -22,7 +22,7 @@
 
 - :school: I am a `Student` at Department of IT in SLIATE
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I enjoy working on projects involving `Html`, `Css`, `ReactJS`, `NodeJs`, `java` and `more`.
+- :computer: I enjoy working on projects involving `ReactJS`, `NodeJs`, `php` and `more`.
 - :student: I’m currently learning `Technologies `.
 - :nerd_face: Always `learning new things`.
 <br>
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,nodejs,ts,java,cs,php,mysql,postgres,git,github,idea,notion,vscode,visualstudio,figma,postman&theme=dark&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,nodejs,npm,ts,java,cs,php,laravel,mysql,postgres,git,github,idea,redux,vscode,visualstudio,figma,postman&theme=dark&perline=13"/>
  </a>
 </p>
 
