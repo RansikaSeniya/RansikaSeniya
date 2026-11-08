@@ -25,11 +25,7 @@ const Ransika = {
   location: 'Sri Lanka 🌏',
   currentFocus: 'Higher National Diploma in IT @ SLIATE',
   technologiesInUse: [
-    'React',
-    'Next.js',
-    'Node.js',
-    'PHP',
-    'Laravel'],
+    'React','Next.js','Node.js','PHP','Laravel'],
   passions: [
     'Full Stack Development',
     'Business Analysis'],
