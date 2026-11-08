@@ -38,7 +38,7 @@ const Ransika = {
      'Personal Growth',
      'Knowledge Sharing'],
  guidingPrinciple: 'Bridging Business & Technology, One Line at a Time.',
-  whatIDo: 'Transforming business needs into practical software solutions.',
+ whatIDo: 'Transforming business needs into practical software solutions.',
 } as const;
 export default Ransika;
 ```
