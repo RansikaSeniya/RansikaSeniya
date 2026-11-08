@@ -20,11 +20,26 @@
 
 <br><br>
 
-- :school: I am a `Student` at Department of IT in SLIATE
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I enjoy working on projects involving `ReactJS`, `NodeJs`, `php` and `more`.
-- :student: I’m currently learning `Technologies `.
-- :nerd_face: Always `learning new things`.
+```typescript
+const Ransika = {
+  location: 'Sri Lanka 🌏',
+  currentFocus: 'Higher National Diploma in IT @ SLIATE',
+  passions: [
+    'Full Stack Development',
+    'Business Analysis'],
+ workPhilosophy: [
+    'Think Creatively',
+    'Build Solutions',
+    'Focus on Quality'],
+ beyondCoding: [
+     'Technology Trends',
+     'Personal Growth',
+     'Knowledge Sharing'],
+ guidingPrinciple: 'Bridging Business & Technology, One Line at a Time.',
+  whatIDo: 'Transforming business needs into practical software solutions.',
+} as const;
+export default Ransika;
+```
 <br>
 
 <!-- Connect With Me -->
@@ -49,7 +64,7 @@
  </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Technologies
 <p align="center"> <br>
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,&theme=dark&perline=13"/>
